@@ -1,6 +1,6 @@
-# WP Broken Image Fixer
+# WP Broken Image Scanner & Fixer
 
-WP Broken Image Fixer is a lightweight WordPress plugin that scans your website content and detects broken image URLs in posts, pages, and custom post types.
+WP Broken Image Scanner & Fixer is a lightweight WordPress plugin that scans your website content and detects broken image URLs in posts, pages, and custom post types.
 
 It helps site owners quickly identify and fix broken images that can hurt SEO, user experience, and site credibility.
 
@@ -44,7 +44,7 @@ It helps site owners quickly identify and fix broken images that can hurt SEO, u
 
 1. Download or clone this repository
 2. Upload the folder to `/wp-content/plugins/`
-3. Activate **WP Broken Image Fixer** from the Plugins menu
+3. Activate **WP Broken Image Scanner & Fixer** from the Plugins menu
 4. Start scanning 🚀
 
 ---
