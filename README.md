@@ -77,5 +77,5 @@ Free to use, modify, and distribute.
 ## 👨‍💻 Author
 
 Developed by **Aminul Sarkar**  
-WordPress & PHP Developer  
+Full Stack Developer  
 https://aminulsarkar.com
